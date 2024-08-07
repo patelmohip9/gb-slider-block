@@ -1,0 +1,17 @@
+.block {
+	display: flex;
+	margin-top: 5px;
+}
+.block-image-cover {
+	width: 100%;
+}
+.block-image {
+	height: 350px; 
+	width: 100%; 
+	object-fit: cover;
+}
+.block-text {
+	height: 100%; 
+	width: 100%;
+	text-align: center;
+}

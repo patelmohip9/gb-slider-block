@@ -1,0 +1,16 @@
+{
+	"apiVersion": 2,
+	"name": "gurenberg/slider-block",
+	"version": "0.1.0",
+	"title": "Slider Block",
+	"category": "widgets",
+	"icon": "smiley",
+	"description": "",
+	"supports": {
+		"html": false
+	},
+	"textdomain": "slider-block",
+	"editorScript": "file:./build/index.js",
+	"editorStyle": "file:./build/index.css",
+	"style": "file:./build/style-index.css"
+}
